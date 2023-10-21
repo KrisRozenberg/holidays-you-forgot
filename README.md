@@ -1,4 +1,4 @@
-For all dumbies (just like me) with no memory for stupid dates :* <mat-icon>favorite</mat-icon><mat-icon>favorite</mat-icon><mat-icon>favorite</mat-icon>
+For all dumbies (just like me) with no memory for stupid dates :* :heart: :heart: :heart:
 
 This awesome application without database provides a table with all the holidays you can never remember!!
 You can:
