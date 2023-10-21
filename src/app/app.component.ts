@@ -27,10 +27,9 @@ export class AppComponent implements OnInit {
 
   dataForRender: MatTableDataSource<HolidayForRender>;
   today: Moment;
-  showUpdateDatesMessage = !new Date('2023-01-03').getMonth();
+  showUpdateDatesMessage = !new Date().getMonth();
 
   ngOnInit(): void {
-    new Date().getDay
     const todayDate = new Date();
     this.today = moment(new Date(todayDate.getFullYear(), todayDate.getMonth(), todayDate.getDate()));
     this.getRadonitsaDate();
