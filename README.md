@@ -1,6 +1,6 @@
 For all dumbies (just like me) with no memory for stupid dates :* :heart: :heart: :heart:
 
-This awesome application without database provides a table with all the holidays you can never remember!!
+This awesome application without database provides a table with all the holidays you can never remember!! <br>
 You can:
 <ol>
     <li>Contribute</li>
